@@ -4,3 +4,5 @@ This repository is used to test several stuffs I have concerned about Git
 - why can't packfile work without pack index?
 - when does an octopus merge happen?
 - "git gc" removes orphan commits (commits that are not reachable from any branch)
+
+Testing Git with DucNK
